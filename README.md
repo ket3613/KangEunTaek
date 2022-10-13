@@ -1,5 +1,45 @@
-- 👋 Hi, I’m @강은택
-- 뭐 이것저것 정리하고 저장용 뭐 별거없음
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PowerShell</title><path d="M23.181 2.974c.568 0 .923.463.792 1.035l-3.659 15.982c-.13.572-.697 1.035-1.265 1.035H.819c-.568 0-.923-.463-.792-1.035L3.686 4.009c.13-.572.697-1.035 1.265-1.035zm-8.375 9.346c.251-.394.227-.905-.09-1.243L9.122 5.125c-.38-.404-1.037-.407-1.466-.003-.429.402-.468 1.056-.088 1.46l4.662 4.96v.11l-7.42 5.374c-.45.327-.533.977-.187 1.453.346.476.991.597 1.44.27l8.229-5.91c.28-.196.438-.365.514-.52zm-2.796 4.399a.928.928 0 00-.934.923c0 .51.418.923.934.923h4.433a.928.928 0 00.934-.923.928.928 0 00-.934-.923z"/></svg>
+<p align="center">
+  <h1 align="center">Developer's Portfolio ✨</h1>
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+  <p align="center">
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+
+<p align="center"> Techs that I've used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C%23-%23A8B9CC?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GO-%2300ADD8?style=flat-square&logo=GO&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring ORM-%23326CE5?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Apache Tomcat-%23F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Apache Kafka-%23231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Eclipse IDE-%232C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-%23000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-%23FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Android Studio-%233DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
+  
+  
+  
+</p>
