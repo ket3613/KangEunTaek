@@ -45,17 +45,19 @@
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-1. 언어: JAVA (jdk 1.8)
-   프레임워크: SpringBoot,BootStrap,MyBatis
-   프로젝트: "사내 통계,유관업무 사이트 리펙토링"
- - 기존 PageToPage ->SPA 형식으로 변경
- - ibatis -> MyBatis xml 문법 변경
- - 기존 통계지표에 그래프 형식추가
 <br>
-2. 언어: JAVA (jdk 1.8)
-   프레임워크: SpringBoot
-   프로젝트: "외부 업체 사이트 "
- - 그래프 및 기능 추가
+   언어: JAVA (jdk 1.8)<br>
+   프레임워크: SpringBoot,BootStrap,MyBatis<br>
+   프로젝트: "사내 통계,유관업무 사이트 리펙토링"<br>
+ - 기존 PageToPage ->SPA 형식으로 변경<br>
+ - 로그인방식 springSecurity 적용
+ - ibatis -> MyBatis xml 문법 변경<br>
+ - 기존 통계지표에 Chart.js 사용 그래프 형식추가<br>
+<br>
+   언어: JAVA (jdk 1.8)<br>
+   프레임워크: SpringBoot<br>
+   프로젝트: "외부 업체 사이트 "<br>
+ - 그래프 및 기능 추가<br>
 <br>
 3. 언어: JAVA (jdk 1.8)
    프레임워크: SpringBoot, rabbitMq
