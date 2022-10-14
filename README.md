@@ -53,12 +53,14 @@
  - 로그인방식 springSecurity 적용
  - ibatis -> MyBatis xml 문법 변경<br>
  - 기존 통계지표에 Chart.js 사용 그래프 형식추가<br>
+============
 <br>
    언어: JAVA (jdk 1.8)<br>
    프레임워크: SpringBoot<br>
    프로젝트: "외부 업체 사이트 "<br>
  - 그래프 및 기능 추가<br>
 <br>
+============
 3. 언어: JAVA (jdk 1.8)
    프레임워크: SpringBoot, rabbitMq
    프로젝트: "과금처리 시스템 리펙토링"
@@ -66,6 +68,7 @@
  - 기존 프로젝트를 MSA 형식으로 변경
  - 프로젝트간 데이터 전달을 rabbitMq형식으로 변경
 <br> 
+============
 4. 언어: Kotlin (jdk 1.8)
    프로젝트: "사내 전자결제 앱"
  - App 로그인 및 메인 Fragment
