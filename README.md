@@ -48,6 +48,8 @@
    언어: JAVA (jdk 1.8)<br>
    프레임워크: SpringBoot,BootStrap,MyBatis<br>
    프로젝트: "사내 통계,유관업무 사이트 리펙토링"<br>
+   Stack : Java, Shell script, SpringBoot, MyBatis, Oracle, Jquery, Ajax, BootStrap5, barChart <br>
+   
  - 기존 PageToPage ->SPA 형식으로 변경<br>
  - 로그인방식 springSecurity 적용
  - ibatis -> MyBatis xml 문법 변경<br>
