@@ -46,30 +46,55 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
    언어: JAVA (jdk 1.8)<br>
-   프레임워크: SpringBoot,BootStrap,MyBatis<br>
    프로젝트: "사내 통계,유관업무 사이트 리펙토링"<br>
-   Stack : Java, Shell script, SpringBoot, MyBatis, Oracle, Jquery, Ajax, BootStrap5, barChart <br>
+   주요 변경사항 
+     - 기존 MPA -> SPA 형식으로 변경<br>
+     - ibatis -> MyBatis xml 문법 변경<br>
+     - 로그인방식 springSecurity 적용
+     - 기존 통계지표에 Chart.js 사용 그래프 형식추가<br>
+     
+   언어: Java, JavaScript, Shell script <br>
+   프레임워크 : SpringBoot, SpringSecurity, MyBatis, BootStrap5, Jquery
+   DB : Oracle
+   Tool : GitLab, eclipse
    
- - 기존 PageToPage ->SPA 형식으로 변경<br>
- - 로그인방식 springSecurity 적용
- - ibatis -> MyBatis xml 문법 변경<br>
- - 기존 통계지표에 Chart.js 사용 그래프 형식추가<br>
 ----------------------------------------------------------------------------------------------------------------------------------
    언어: JAVA (jdk 1.8)<br>
-   프레임워크: SpringBoot<br>
    프로젝트: "외부 업체 사이트 "<br>
  - 그래프 및 기능 추가<br>
+ - 주요 변경사항 
+     - 그래프 및 기능 추가 <br>
+     - 배치를 통한 데이터 가공 <br>
+     
+   언어: Java, JavaScript <br>
+   프레임워크 : SpringBoot, spring batch <br>
+   DB : Oracle, MySql <br>
+   Tool : GitLab, Intellij, dbeaver, teams_WebHook <br>
+   
 ----------------------------------------------------------------------------------------------------------------------------------
    언어: JAVA (jdk 1.8)<br>
-   프레임워크: SpringBoot, rabbitMq<br>
    프로젝트: "과금처리 시스템 리펙토링"<br>
- - 기존 C++ 시스템 JAVA로 리펙토링<br>
- - 기존 프로젝트를 MSA 형식으로 변경<br>
- - 프로젝트간 데이터 전달을 rabbitMq사용<br>
+   주요 변경사항 
+     - C++ 구성 프로젝트 Java 구성으로 변경<br>
+     - MSA 개념 도입 및 rabbitMq 사용 <br>
+     - 오류 및 데이터 이상 알람 <br>
+     
+   언어: C++, Java, Shell script <br>
+   프레임워크 : SpringBoot, MyBatis, RabbitMq, elasticsearch <br>
+   DB : Oracle <br>
+   Tool : GitLab, eclipse, teams_WebHook <br>
+
 ----------------------------------------------------------------------------------------------------------------------------------
    언어: Kotlin (jdk 1.8)<br>
-   프로젝트: "사내 전자결제 앱"<br>
- - App 로그인 및 메인 Fragment<br>
- - Friebase 를 통한 앱푸시 알람<br>
+   프로젝트: "사내 전자결재 APP "<br>
+   주요 변경사항 
+     - Kotlin 사용 안드로이드앱 구성 <br>
+     - firebase를 통한 APP_PUSH 기능 구현<br>
+    
+   언어: Kotlin <br>
+   프레임워크 : firebase, MyBatis <br>
+   DB : Oracle <br>
+   Tool : GitLab, androidStudio, teams_WebHook <br>
+   
 ----------------------------------------------------------------------------------------------------------------------------------
 
