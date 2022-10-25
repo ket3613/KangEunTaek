@@ -45,18 +45,18 @@
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------
-   언어: JAVA (jdk 1.8)<br>
-   프로젝트: "사내 통계,유관업무 사이트 리펙토링"<br>
-   주요 변경사항 
+   - 언어: JAVA (jdk 1.8)<br>
+   - 프로젝트: "사내 통계,유관업무 사이트 리펙토링"<br>
+   - 주요 변경사항 
      - 기존 MPA -> SPA 형식으로 변경<br>
      - ibatis -> MyBatis xml 문법 변경<br>
      - 로그인방식 springSecurity 적용
      - 기존 통계지표에 Chart.js 사용 그래프 형식추가<br>
      
-   언어: Java, JavaScript, Shell script <br>
-   프레임워크 : SpringBoot, SpringSecurity, MyBatis, BootStrap5, Jquery
-   DB : Oracle
-   Tool : GitLab, eclipse
+   - 언어: Java, JavaScript, Shell script <br>
+   - 프레임워크 : SpringBoot, SpringSecurity, MyBatis, BootStrap5, Jquery
+   - DB : Oracle
+   - Tool : GitLab, eclipse
    
 ----------------------------------------------------------------------------------------------------------------------------------
    언어: JAVA (jdk 1.8)<br>
