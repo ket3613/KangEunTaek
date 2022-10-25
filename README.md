@@ -59,42 +59,42 @@
    - Tool : GitLab, eclipse
    
 ----------------------------------------------------------------------------------------------------------------------------------
-   언어: JAVA (jdk 1.8)<br>
-   프로젝트: "외부 업체 사이트 "<br>
+ - 언어: JAVA (jdk 1.8)<br>
+ - 프로젝트: "외부 업체 사이트 "<br>
  - 그래프 및 기능 추가<br>
  - 주요 변경사항 
      - 그래프 및 기능 추가 <br>
      - 배치를 통한 데이터 가공 <br>
      
-   언어: Java, JavaScript <br>
-   프레임워크 : SpringBoot, spring batch <br>
-   DB : Oracle, MySql <br>
-   Tool : GitLab, Intellij, dbeaver, teams_WebHook <br>
+ - 언어: Java, JavaScript <br>
+ - 프레임워크 : SpringBoot, spring batch <br>
+ - DB : Oracle, MySql <br>
+ - Tool : GitLab, Intellij, dbeaver, teams_WebHook <br>
    
 ----------------------------------------------------------------------------------------------------------------------------------
-   언어: JAVA (jdk 1.8)<br>
-   프로젝트: "과금처리 시스템 리펙토링"<br>
-   주요 변경사항 
+ - 언어: JAVA (jdk 1.8)<br>
+ - 프로젝트: "과금처리 시스템 리펙토링"<br>
+ - 주요 변경사항 
      - C++ 구성 프로젝트 Java 구성으로 변경<br>
      - MSA 개념 도입 및 rabbitMq 사용 <br>
      - 오류 및 데이터 이상 알람 <br>
      
-   언어: C++, Java, Shell script <br>
-   프레임워크 : SpringBoot, MyBatis, RabbitMq, elasticsearch <br>
-   DB : Oracle <br>
-   Tool : GitLab, eclipse, teams_WebHook <br>
+ - 언어: C++, Java, Shell script <br>
+ - 프레임워크 : SpringBoot, MyBatis, RabbitMq, elasticsearch <br>
+ - DB : Oracle <br>
+ - Tool : GitLab, eclipse, teams_WebHook <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------
-   언어: Kotlin (jdk 1.8)<br>
-   프로젝트: "사내 전자결재 APP "<br>
-   주요 변경사항 
+ - 언어: Kotlin (jdk 1.8)<br>
+ - 프로젝트: "사내 전자결재 APP "<br>
+ - 주요 변경사항 
      - Kotlin 사용 안드로이드앱 구성 <br>
      - firebase를 통한 APP_PUSH 기능 구현<br>
     
-   언어: Kotlin <br>
-   프레임워크 : firebase, MyBatis <br>
-   DB : Oracle <br>
-   Tool : GitLab, androidStudio, teams_WebHook <br>
+ - 언어: Kotlin <br>
+ - 프레임워크 : firebase, MyBatis <br>
+ - DB : Oracle <br>
+ - Tool : GitLab, androidStudio, teams_WebHook <br>
    
 ----------------------------------------------------------------------------------------------------------------------------------
 
