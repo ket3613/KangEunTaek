@@ -77,7 +77,7 @@
  - 주요 변경사항 
      - C++ 구성 프로젝트 Java 구성으로 변경<br>
      - MSA 개념 도입 및 rabbitMq 사용 <br>
-     - 오류 및 데이터 이상 알람 <br>
+     - 오류 및 데이터 이상 webHook 알람 <br>
      
  - 언어: C++, Java, Shell script <br>
  - 프레임워크 : SpringBoot, MyBatis, RabbitMq, elasticsearch <br>
