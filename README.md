@@ -40,8 +40,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
   
-  
-  
+ 
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------
