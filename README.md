@@ -30,9 +30,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
   
- 
-안녕하세요, KangEunTaek님의 GitHub 프로필을 기반으로 README 파일을 업데이트해드리겠습니다.
-
 ---
 
 # KangEunTaek의 개발자 포트폴리오 ✨
