@@ -1,14 +1,4 @@
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
-
-  <p align="center">
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -41,96 +31,99 @@
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
   
  
-</p>
-----------------------------------------------------------------------------------------------------------------------------------
-   - 언어: JAVA (jdk 1.8)<br>
-   - 프로젝트: "항공관련 API 서버 운영 및 개발"<br>
-   - 주요 변경사항 
-     - API 추가 및 기능 변경<br>
-     - 통계 데이터 적재를 위한 리팩터링<br>
-     - 데이터 보정작업 기능 추가<br>
-     
-   - 언어: Java <br>
-   - 프레임워크 : SpringBoot, MyBatis, Apigee, 
-   - DB : Oracle, pl/sql
-   - Tool : Intellij, DBeaver
+안녕하세요, KangEunTaek님의 GitHub 프로필을 기반으로 README 파일을 업데이트해드리겠습니다.
 
-----------------------------------------------------------------------------------------------------------------------------------
-   - 언어: PL/sql <br>
-   - 프로젝트: "항공관련 영업 운영업무"<br>
-   - 주요 변경사항 
-     - Pl/sql 을 통한 외부 알람 개발<br>
-     - 영업 관련 추가사항 개발 및 운영<br>
-     - apigee 연결을 통한 알람 기능 추가<br>
-     
-   - 프레임워크 : oracle ERP
-   - DB : Oracle
-   - Tool : DBeaver
-   - 
-----------------------------------------------------------------------------------------------------------------------------------
-   - 언어: JAVA (jdk 1.8)<br>
-   - 프로젝트: "항공관련 피드백 사이트 개발 및 운영"<br>
-   - 주요 변경사항 
-     - 모바일 환경에서 접속시 반응형 웹으로 변경<br>
-     - 성능 및 기능 이슈로 인한  리뉴얼<br>
-     - 운영자 관련 관리자 페이지 추가<br>
-     
-   - 언어: Java, JavaScript<br>
-   - 프레임워크 : SpringBoot, MyBatis, BootStrap5, Jquery
-   - DB : Oracle
-   - Tool : DBeaver, Intellij
+---
 
-----------------------------------------------------------------------------------------------------------------------------------
-   - 언어: JAVA (jdk 1.8)<br>
-   - 프로젝트: "사내 통계,유관업무 사이트 리펙토링"<br>
-   - 주요 변경사항 
-     - 기존 MPA -> SPA 형식으로 변경<br>
-     - ibatis -> MyBatis xml 문법 변경<br>
-     - 로그인방식 springSecurity 적용
-     - 기존 통계지표에 Chart.js 사용 그래프 형식추가<br>
-     
-   - 언어: Java, JavaScript, Shell script <br>
-   - 프레임워크 : SpringBoot, SpringSecurity, MyBatis, BootStrap5, Jquery
-   - DB : Oracle
-   - Tool : GitLab, eclipse
-   
-----------------------------------------------------------------------------------------------------------------------------------
- - 언어: JAVA (jdk 1.8)<br>
- - 프로젝트: "외부 업체 사이트 "<br>
- - 그래프 및 기능 추가<br>
- - 주요 변경사항 
-     - 그래프 및 기능 추가 <br>
-     - 배치를 통한 데이터 가공 <br>
-     
- - 언어: Java, JavaScript <br>
- - 프레임워크 : SpringBoot, spring batch <br>
- - DB : Oracle, MySql <br>
- - Tool : GitLab, Intellij, dbeaver, teams_WebHook <br>
-   
-----------------------------------------------------------------------------------------------------------------------------------
- - 언어: JAVA (jdk 1.8)<br>
- - 프로젝트: "과금처리 시스템 리펙토링"<br>
- - 주요 변경사항 
-     - C++ 구성 프로젝트 Java 구성으로 변경<br>
-     - MSA 개념 도입 및 rabbitMq 사용 <br>
-     - 오류 및 데이터 이상 webHook 알람 <br>
-     
- - 언어: C++, Java, Shell script <br>
- - 프레임워크 : SpringBoot, MyBatis, RabbitMq, elasticsearch <br>
- - DB : Oracle <br>
- - Tool : GitLab, eclipse, teams_WebHook <br>
+# KangEunTaek의 개발자 포트폴리오 ✨
 
-----------------------------------------------------------------------------------------------------------------------------------
- - 언어: Kotlin (jdk 1.8)<br>
- - 프로젝트: "사내 전자결재 APP "<br>
- - 주요 변경사항 
-     - Kotlin 사용 안드로이드앱 구성 <br>
-     - firebase를 통한 APP_PUSH 기능 구현<br>
-    
- - 언어: Kotlin <br>
- - 프레임워크 : firebase, MyBatis <br>
- - DB : Oracle <br>
- - Tool : GitLab, androidStudio, teams_WebHook <br>
-   
-----------------------------------------------------------------------------------------------------------------------------------
+## 기술 스택
 
+다음은 제가 사용해본 기술들입니다:
+
+- **프로그래밍 언어**: Java, PL/SQL, JavaScript, Kotlin, C++, Shell Script
+- **프레임워크 및 라이브러리**: Spring Boot, MyBatis, Spring Security, Bootstrap 5, jQuery, Spring Batch, RabbitMQ, Elasticsearch, Firebase
+- **데이터베이스**: Oracle, MySQL
+- **도구 및 플랫폼**: IntelliJ, DBeaver, Eclipse, GitLab, Android Studio, Teams WebHook, Apigee
+
+## 프로젝트 경험
+
+### 항공 관련 API 서버 운영 및 개발
+
+- **언어**: Java (JDK 1.8)
+- **프레임워크**: Spring Boot, MyBatis, Apigee
+- **데이터베이스**: Oracle, PL/SQL
+- **도구**: IntelliJ, DBeaver
+- **주요 작업**:
+  - API 추가 및 기능 변경
+  - 통계 데이터 적재를 위한 리팩토링
+  - 데이터 보정 작업 기능 추가
+
+### 항공 관련 영업 운영 업무
+
+- **언어**: PL/SQL
+- **프레임워크**: Oracle ERP
+- **데이터베이스**: Oracle
+- **도구**: DBeaver
+- **주요 작업**:
+  - PL/SQL을 통한 외부 알림 개발
+  - 영업 관련 추가 사항 개발 및 운영
+  - Apigee 연계를 통한 알림 기능 추가
+
+### 항공 관련 피드백 사이트 개발 및 운영
+
+- **언어**: Java (JDK 1.8), JavaScript
+- **프레임워크**: Spring Boot, MyBatis, Bootstrap 5, jQuery
+- **데이터베이스**: Oracle
+- **도구**: DBeaver, IntelliJ
+- **주요 작업**:
+  - 모바일 환경에서의 반응형 웹 구현
+  - 성능 및 기능 개선을 위한 리뉴얼
+  - 운영자용 관리자 페이지 추가
+
+### 사내 통계 및 유관 업무 사이트 리팩토링
+
+- **언어**: Java (JDK 1.8), JavaScript, Shell Script
+- **프레임워크**: Spring Boot, Spring Security, MyBatis, Bootstrap 5, jQuery
+- **데이터베이스**: Oracle
+- **도구**: GitLab, Eclipse
+- **주요 작업**:
+  - 기존 MPA에서 SPA 형식으로 변경
+  - iBatis에서 MyBatis로 전환
+  - Spring Security를 통한 로그인 방식 적용
+  - Chart.js를 활용한 통계 지표 그래프 추가
+
+### 외부 업체 사이트 기능 추가
+
+- **언어**: Java (JDK 1.8), JavaScript
+- **프레임워크**: Spring Boot, Spring Batch
+- **데이터베이스**: Oracle, MySQL
+- **도구**: GitLab, IntelliJ, DBeaver, Teams WebHook
+- **주요 작업**:
+  - 그래프 및 기능 추가
+  - 배치를 통한 데이터 가공
+
+### 과금 처리 시스템 리팩토링
+
+- **언어**: C++, Java (JDK 1.8), Shell Script
+- **프레임워크**: Spring Boot, MyBatis, RabbitMQ, Elasticsearch
+- **데이터베이스**: Oracle
+- **도구**: GitLab, Eclipse, Teams WebHook
+- **주요 작업**:
+  - 기존 C++ 기반 프로젝트를 Java로 전환
+  - MSA 개념 도입 및 RabbitMQ 활용
+  - 오류 및 데이터 이상 시 WebHook을 통한 알림 기능 구현
+
+### 사내 전자결재 앱 개발
+
+- **언어**: Kotlin (JDK 1.8)
+- **프레임워크**: Firebase, MyBatis
+- **데이터베이스**: Oracle
+- **도구**: GitLab, Android Studio, Teams WebHook
+- **주요 작업**:
+  - Kotlin을 활용한 안드로이드 앱 개발
+  - Firebase를 통한 앱 푸시 기능 구현
+
+---
+
+자세한 내용은 [제 GitHub 프로필](https://github.com/ket3613/)에서 확인하실 수 있습니다. 
